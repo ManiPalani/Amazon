@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64979" started-at="2022-11-16T23:26:35 IST" finished-at="2022-11-16T23:27:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64979" started-at="2022-11-16T23:26:35 IST" finished-at="2022-11-16T23:27:40 IST">
+      <class name="com.Testng.Amazon_Testng">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.Testng.Amazon_Testng@2de8284b]" name="browserLaunch" is-config="true" duration-ms="4559" started-at="2022-11-16T23:26:30 IST" finished-at="2022-11-16T23:26:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="url()[pri:0, instance:com.Testng.Amazon_Testng@2de8284b]" name="url" is-config="true" duration-ms="31436" started-at="2022-11-16T23:26:35 IST" finished-at="2022-11-16T23:27:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="dropDown()[pri:0, instance:com.Testng.Amazon_Testng@2de8284b]" name="dropDown" duration-ms="13202" started-at="2022-11-16T23:27:06 IST" finished-at="2022-11-16T23:27:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDown -->
+        <test-method status="PASS" signature="valueSelect()[pri:1, instance:com.Testng.Amazon_Testng@2de8284b]" name="valueSelect" duration-ms="20261" started-at="2022-11-16T23:27:19 IST" finished-at="2022-11-16T23:27:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valueSelect -->
+      </class> <!-- com.Testng.Amazon_Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
