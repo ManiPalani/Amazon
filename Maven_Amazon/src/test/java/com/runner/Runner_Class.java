@@ -19,7 +19,8 @@ dryRun = false,
 plugin = {
 		"html:Report/cucumber.html",
 		//"com.cucumber.listener.ExtentCucumberFormatter:Report/Cucumber.html",
-		"pretty"
+		"pretty",
+		"json:Report/cu.json"
 })
 
 public class Runner_Class {
